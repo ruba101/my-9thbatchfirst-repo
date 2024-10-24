@@ -1,4 +1,13 @@
 div{
-    background-color: chartreuse;
+    background-color: none;
     margin-bottom: 10px;
+
+}
+h3{
+    background: rgb(89, 95, 61);
+}
+p{
+    font-size: medium;
+    color: darkviolet;
+    font-family: Arial, Helvetica, sans-serif;
 }
